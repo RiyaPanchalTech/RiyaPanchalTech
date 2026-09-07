@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi 👋, I'm Riya Panchal
 
-<!--
-**RiyaPanchalTech/RiyaPanchalTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech IT Student | 💻 Java & Web Development | 🧩 DSA
 
-Here are some ideas to get you started:
+I'm an Information Technology student interested in software development,
+problem solving, and building practical projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+
+- Java
+- HTML
+- CSS
+- JavaScript
+- Git & GitHub
+
+### 🌱 Currently Learning
+
+- React
+- Backend Development
+- Full-Stack Development
+
+### 💻 What I'm Working On
+
+- Practicing Data Structures & Algorithms
+- Building web development projects
+- Improving my problem-solving skills
+
+### 📌 Featured Projects
+
+Coming soon 🚀
+
+### 📊 Coding
+
+- GitHub: [@RiyaPanchalTech](https://github.com/RiyaPanchalTech)
+
+
+
