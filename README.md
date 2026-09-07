@@ -21,7 +21,7 @@ problem solving, and building practical projects.
 
 ### 💻 What I'm Working On
 
-- Practicing Data Structures & Algorithms
+- Practicing Data Structures & Algorithms in Java
 - Building web development projects
 - Improving my problem-solving skills
 
